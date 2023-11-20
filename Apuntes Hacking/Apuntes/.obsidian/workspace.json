@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "a6c61333d8f1c4e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b641ecaa2cd1918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eaacce92775d28b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP TOP 10 y vulnerabilidades web🌐/XSS/SecDevLabs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "043beb897c6755a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP TOP 10 y vulnerabilidades web🌐/XSS/SecDevLabs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71bc269362e7afe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Tareas✅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "682c5f356e4d8704",
+    "type": "split",
+    "children": [
+      {
+        "id": "00f8e0bf92f8d822",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c1a3aaa71692c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bfc2be627341084",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b7c3fcc4ce0e59e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a2916aa4b54202e",
+    "type": "split",
+    "children": [
+      {
+        "id": "678993fcf825ad91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdfe4a3d3c4e58de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OWASP TOP 10 y vulnerabilidades web🌐/XSS/SecDevLabs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3271b50eb0371a25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OWASP TOP 10 y vulnerabilidades web🌐/XSS/SecDevLabs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa1079e35e020742",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea2ba447a75ae6f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OWASP TOP 10 y vulnerabilidades web🌐/XSS/SecDevLabs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e8c1a3aaa71692c2",
+  "lastOpenFiles": [
+    "Personal/Shortcuts.md",
+    "OWASP TOP 10 y vulnerabilidades web🌐/XSS/SecDevLabs.md",
+    "Personal/Tareas✅.md",
+    "Personal/Sin título.canvas",
+    "Personal",
+    "OWASP TOP 10 y vulnerabilidades web🌐/XSS",
+    "OWASP TOP 10 y vulnerabilidades web🌐",
+    "desktop.ini"
+  ]
+}
